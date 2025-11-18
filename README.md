@@ -3,8 +3,7 @@
 - **Kelas**       : *PPW - C*
 - **Konsentrasi** : *Rekayasa Perangkat Lunak*
 
-# 📸 Screenshot Aplikasi Manajemen Kontak
-
+# 📸 Screenshot
 ## 1️⃣ Halaman Login
 <img width="1920" height="1080" alt="Screenshot Login" src="https://github.com/user-attachments/assets/c396eb15-a793-4453-97b8-014c3100c090" />
 
@@ -52,5 +51,8 @@ Sehingga ketika user **logout lalu login kembali**, data kontak **tetap ada dan 
 ---
 
 # 🔐 Akun Login (Default)
-Username: admin
+
+Username: admin  
 Password: 123
+
+---
